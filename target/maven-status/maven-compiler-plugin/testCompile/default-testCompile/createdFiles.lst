@@ -1,0 +1,3 @@
+br\daniela\cucumber\steps\LoginSteps.class
+br\daniela\hooks\Hooks.class
+br\daniela\runners\Runner.class
