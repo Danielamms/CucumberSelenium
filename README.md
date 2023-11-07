@@ -1,2 +1,0 @@
-# CucumberSelenium
-para claudinei
